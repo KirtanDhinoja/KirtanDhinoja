@@ -29,4 +29,4 @@ This profile serves as a hub for my AI engineering assignments, experiments, and
 
 ### Let's Connect
 
-If you want to collaborate on AI infrastructure or talk about agentic workflows, reach out via [LinkedIn](linkedin.com/in/kirtandhinoja/).
+If you want to collaborate on AI infrastructure or talk about agentic workflows, reach out via [LinkedIn](https://linkedin.com/in/kirtandhinoja/).
